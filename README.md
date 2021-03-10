@@ -4,7 +4,7 @@ Trabajo práctico final para el curso Desarrollo en React JS de la Universidad T
 
 ## Consigna:
 
-Desarrollar en  un ecommerce con las siguientes paginas:
+Desarrollar un ecommerce con las siguientes paginas:
 
 1) Home: Listado de productos. Mostrar nombre, precio y foto.
 2) Detalle de producto: Nombre del producto, descripción, precio, sku.
