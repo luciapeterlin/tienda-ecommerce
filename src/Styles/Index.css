@@ -1,0 +1,34 @@
+.Navbar{
+	width: 100%;
+}
+
+.AiOutlineShoppingCart{
+	font-size: 30px;
+}
+
+.shoppingCartItems{
+	font-size: 15px;
+	margin: 0 5px 10px;
+	text-align: center;
+	line-height: 20px;
+}
+
+@media all and (max-width: 599px) {
+
+.Navbar{
+	font-size: 0.7em;
+}
+
+.brand-name{
+	font-size: 0.7em;
+}
+
+.AiOutlineShoppingCart{
+	font-size: 2em;
+}
+
+.shoppingCartItems{
+	font-size:  0.7em;
+}
+
+} /*end @media all and (max-width: 599px)*/

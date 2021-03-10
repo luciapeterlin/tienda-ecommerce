@@ -1,0 +1,12 @@
+.alert{
+	margin: 10px;
+	width: 500px;
+}
+
+@media all and (max-width: 599px) {
+
+.alert{
+	width: 100%;
+}
+
+} /*end @media all and (max-width: 599px)*/

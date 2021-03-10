@@ -1,0 +1,17 @@
+.products-container{
+	margin: 30px auto;
+}
+
+.Card{
+	display: flex; 
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.products-image{
+	max-width: 300px;
+}
+
+.products-title{
+	margin: 15px;
+}

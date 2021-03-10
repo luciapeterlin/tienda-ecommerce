@@ -1,0 +1,47 @@
+.Card{
+	width: 90%;
+	margin: 30px auto;
+}
+
+.details-container{
+	width: 100%;
+}
+
+.photo-container{
+	width: 30%;
+	float: left;
+}
+
+.product-image{
+	width: 100%;
+}
+
+.product-details{
+	width: 70%; 
+	float: left;
+	padding: 50px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 1023px) {
+
+.photo-container{
+	width: 40%;
+}
+
+.product-details{
+	width: 60%; 
+}
+
+} /*end @media screen and (min-width: 600px) and (max-width: 1023px)*/
+
+@media all and (max-width: 599px) {
+
+.photo-container{
+	width: 100%;
+}
+
+.product-details{
+	width: 100%; 
+}
+
+} /*end @media all and (max-width: 599px)*/
