@@ -2,7 +2,7 @@
 
 Trabajo práctico final para el curso Desarrollo en React JS de la Universidad Tecnológica Nacional (UTN).
 
-##Consigna:
+## Consigna:
 
 Desarrollar en  un ecommerce con las siguientes paginas:
 
