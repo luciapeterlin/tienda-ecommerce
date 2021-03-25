@@ -14,3 +14,10 @@ Desarrollar un ecommerce con las siguientes paginas:
 4) Login. Por Email y Contraseña.
 
 * Todas los datos deben persistir en base de datos. Es opcional la utilizacion de firebase.
+
+## Para utilizar este proyecto: 
+
+1) Descargar o clonar el repositorio.
+2) Abrir la consola, ubicarse en la carpeta del proyecto y correr el comando npm install.
+3) Una vez instalado, correr el comando npm start.
+4) Abrir http://localhost:3000 en el navegador para visualizar la aplicación.
