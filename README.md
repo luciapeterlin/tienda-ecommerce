@@ -3,6 +3,7 @@
 Trabajo práctico final para el curso Desarrollo en React JS de la Universidad Tecnológica Nacional (UTN).
 
 #### [Vistar sitio](http://tiendaonline-lombok.surge.sh/)
+![Alt Text](https://media.giphy.com/media/gRNHyWXcpBcsY4e1Bg/giphy.gif)
 
 ## Consigna:
 
