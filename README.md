@@ -1,24 +1,24 @@
-# Tienda Online de Ecommerce
+# Fashion Ecommerce
 
-Trabajo práctico final para el curso Desarrollo en React JS de la Universidad Tecnológica Nacional (UTN).
+Final project for the React Web Development Course. Shopping cart, user authentication with Firebase and styles with React Bootstrap.
 
-#### [Vistar sitio](http://tiendaonline-lombok.surge.sh/)
+#### [Visite website](http://tiendaonline-lombok.surge.sh/)
 ![Alt Text](https://media.giphy.com/media/gRNHyWXcpBcsY4e1Bg/giphy.gif)
 
-## Consigna:
+## About this project:
 
-Desarrollar un ecommerce con las siguientes paginas:
+Develop an ecommerce with the following sections:
 
-1) Home: Listado de productos. Mostrar nombre, precio y foto.
-2) Detalle de producto: Nombre del producto, descripción, precio, sku.
-3) Registro. Campos Nombre, Apellido, Email, Contraseña.
-4) Login. Por Email y Contraseña.
+1) Home: Product list that includes items name, price and photo.
+2) Product detail: Name of the product, description, price, sku.
+3) User Registration: With name, surname, email and password.
+4) Login: Login with email and password.
 
-* Todas los datos deben persistir en base de datos. Es opcional la utilizacion de firebase.
+* All data must persist in database. The use of firebase is optional.
 
-## Para utilizar este proyecto: 
+## To use this project: 
 
-1) Descargar o clonar el repositorio.
-2) Abrir la consola, ubicarse en la carpeta del proyecto y correr el comando npm install.
-3) Una vez instalado, correr el comando npm start.
-4) Abrir http://localhost:3000 en el navegador para visualizar la aplicación.
+1) Download or clone the repository.
+2) Open the console and on the project folder run the npm install command.
+3) Once installed, run the npm start command.
+4) Open http://localhost:3000 in the browser.
