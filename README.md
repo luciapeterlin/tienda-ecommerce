@@ -1,6 +1,6 @@
-# Fashion Ecommerce
+# Lombok Fashion Ecommerce
 
-Final project for the React Web Development Course. Shopping cart, user authentication with Firebase and styles with React Bootstrap.
+Final project for the React Web Development course. Shopping cart, user authentication with Firebase and styles with React Bootstrap.
 
 #### [Visite website](http://tiendaonline-lombok.surge.sh/)
 ![Alt Text](https://media.giphy.com/media/gRNHyWXcpBcsY4e1Bg/giphy.gif)
@@ -10,7 +10,7 @@ Final project for the React Web Development Course. Shopping cart, user authenti
 Develop an ecommerce with the following sections:
 
 1) Home: Product list that includes items name, price and photo.
-2) Product detail: Name of the product, description, price, sku.
+2) Product detail: Name of the product, description, price and sku.
 3) User Registration: With name, surname, email and password.
 4) Login: Login with email and password.
 
