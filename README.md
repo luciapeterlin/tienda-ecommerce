@@ -2,7 +2,7 @@
 
 Final project for the React Web Development course. Shopping cart, user authentication with Firebase and styles with React Bootstrap.
 
-#### [Visite website](http://tiendaonline-lombok.surge.sh/)
+#### [Visite website](http://weather-app.luciapeterlin.surge.sh/)
 ![Alt Text](https://media.giphy.com/media/gRNHyWXcpBcsY4e1Bg/giphy.gif)
 
 ## About this project:
